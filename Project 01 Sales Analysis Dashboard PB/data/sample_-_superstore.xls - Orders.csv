@@ -1,0 +1,22 @@
+Column Name,Description
+Row ID,Unique identifier for each row in the dataset.
+Order ID,Unique identifier for each customer order.
+Order Date,Date when the order was placed.
+Ship Date,Date when the order was shipped.
+Ship Mode,"Shipping method used for the order (e.g., Standard Class, First Class)."
+Customer ID,Unique identifier for each customer.
+Customer Name,Name of the customer who placed the order.
+Segment,"Customer segment (e.g., Consumer, Corporate, Home Office)."
+Country,Country where the order was delivered (all entries: USA).
+City,City where the order was delivered.
+State,State where the order was delivered.
+Postal Code,Postal code for the delivery address.
+Region,"Geographic region (East, West, North, South)."
+Product ID,Unique identifier for each product.
+Category,"High-level grouping of products (e.g., Furniture, Office Supplies)."
+Sub-Category,"Detailed grouping of products (e.g., Chairs, Binders)."
+Product Name,Name of the product sold.
+Sales,Revenue generated from the sale of products.
+Quantity,Number of items sold.
+Discount,Discount applied to the sale.
+Profit,Profit earned from the sale of products.
